@@ -1,0 +1,11 @@
+yt-dlp
+opencv-python
+Pillow
+torch
+open-clip-torch
+chromadb
+streamlit
+pandas
+openpyxl
+deep-translator
+ffmpeg
